@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a passionate and driven student currently pursuing my MSc. in Computer Science at the University of Edinburgh. With a strong foundation in software development and a keen interest in exploring new technologies, I am actively seeking new career opportunities to further enhance my skills and knowledge in the field.<br><br>Throughout my academic journey, I have immersed myself in various programming languages and frameworks. My diverse project portfolio reflects my curiosity and willingness to tackle challenges across different domains, ranging from web development to mobile applications. Most of the projects I made were because I was curious about the functionality or they seemed interesting  😅
+I build production-grade backend systems, cloud infrastructure, and applied ML pipelines, Currently working at Pickfords and building many projects like multi-tier secure API architecture, RAG chatbot, etc. I am passionate and driven with a MSc. in Computer Science at the University of Edinburgh. With a strong foundation in software development and a keen interest in exploring new technologies.<br><br>Throughout my academic journey, I have immersed myself in various programming languages and frameworks.My dissertation project **MEX** a fully offline ML experiment management desktop app. My diverse project portfolio reflects my curiosity and willingness to tackle challenges across different domains, ranging from web development to mobile applications. Most of the projects I made were because I was curious about the functionality or they seemed interesting  😅
+
+Portfolio Link: https://portfolio-website-one-gamma-31.vercel.app/
+
 
 
 # 💻 Tech Stack:
